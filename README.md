@@ -17,15 +17,15 @@ This project is a **dApp (Decentralized Application)** built with **React + Vite
 ## 📜 Contracts deployed in Sepolia
 
 ### **Token A**
-- **Address:** `0x18a5321E8D655d846c67A1441bd88FEF3DCDf391`  
+- **Address:** `0xDd79601DF7D1c17F783736d6fE6a87B7D170b0D7`  
 - **Etherscan:** [View code](https://sepolia.etherscan.io/address/0xdd79601df7d1c17f783736d6fe6a87b7d170b0d7#code)
 
 ### **Token B**
-- **Address:** `0x26a1E5E72fda2a3F000205B981627cE8aC6205CB`  
+- **Address:** `0xEA59ca4773DfC00B02B4d49AF911906550057ead`  
 - **Etherscan:** [View code](https://sepolia.etherscan.io/address/0xea59ca4773dfc00b02b4d49af911906550057ead#code)
 
 ### **SimpleSwap**
-- **Address:** `0x2fcB0a5C9Fa846A7A950Cdb191d9F3Fc03161FA8`  
+- **Address:** `0x39Ab6BCC04e85182fd1323b306F9F7900EC5Be10`  
 - **Etherscan:** [View code](https://sepolia.etherscan.io/address/0x39ab6bcc04e85182fd1323b306f9f7900ec5be10#code)
 
 ---
